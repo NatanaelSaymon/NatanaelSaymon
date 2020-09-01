@@ -5,8 +5,8 @@
 
 ## Hi 🖖
 
-Nerd por natureza, e apaixonado por ciência e tecnologia 👨‍🚀. Me dedico e estudo diariamente com muito foco e empenho para entender um pouco mais das tecnologias do meu dia-a-dia e fortalecer as minhas bases.
+Sou nerd por natureza e um dev front-end em formação, apaixonado por ciência e tecnologia 👨‍🚀. Entusiasta de javascript, me dedico e estudo diariamente com muito foco e empenho.
 
-- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas.
+- 👨‍🎓 Estudante de Analise e Desenvolvimento de Sistemas(UNICSUL).
 - 💻 Staks: Html5, Css3, Javascript, NodeJS.
 - 📚 Estudando através do bootcamp da **Rockeseat**, do curso **Launchbase**, Desenvolvimento Web com **NodeJS**.
