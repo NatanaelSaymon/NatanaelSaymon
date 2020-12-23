@@ -1,10 +1,8 @@
-<!-- # :octocat: Natanael Saymon -->
-
 ## 🖖 Olá, bem vindo(a). Eu sou o Natan!
 
 Sou nerd por natureza e um dev front-end em formação, apaixonado por ciência e tecnologia 👨‍🚀. Entusiasta de Javascript, me dedico e estudo diariamente com muito foco e empenho.
 
-- 👨🏽‍💻 Atuo como estágiario na **Spacelab Agência e Produtora Web**
+- 👨🏽‍💻 Atuo como estágiario na **Spacelab Agência e Produtora Web**.
 - 👨‍🎓 Graduando Análise e Desenvolvimento de Sistemas, focado em Frontend.
 - 📚 Stacks atualmente estudadas: **HTML5**, **CSS3**, **SASS**, **Javascript**, **Jquery**, **NodeJS**.
 
