@@ -1,6 +1,6 @@
-## 🖖 Olá, bem vindo(a). Eu sou o Natan!
+## 🖖 Olá, bem vindo(a). Eu sou o Natan :)
 
-Sou nerd por natureza e um dev front-end em formação, apaixonado por ciência e tecnologia 👨‍🚀. Entusiasta de Javascript, React, Node, Python. Me dedico e estudo diariamente com muito foco e empenho.
+Sabe aquelas pessoas que gostam de games, animes, mangá, filmes de herói? Pois é, eu sou uma dessas pessoas hahaha... Sou dev front-end em formação, apaixonado por ciência, universo e tecnologia 👨‍🚀. Entusiasta de JavaScript, React, TypeScript. Me dedico e estudo diariamente com muito foco e empenho.
 
 - 👨🏽‍💻 Atuo como Desenvolvedor Front-end Jr na **Econverse**.
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas.
