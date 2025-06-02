@@ -2,7 +2,7 @@
 
 Sabe aquelas pessoas que gostam de games, animes, mangá, filmes de herói? Pois é, eu sou uma dessas pessoas hahaha... Sou dev front-end em formação, apaixonado por ciência, universo e tecnologia 👨‍🚀. Entusiasta de JavaScript, React, TypeScript. Me dedico e estudo diariamente com muito foco e empenho.
 
-- 👨🏽‍💻 Atuo como Desenvolvedor Front-end Jr na **Econverse**.
+
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 
 <br>
