@@ -150,11 +150,3 @@ Sabe aquelas pessoas que gostam de games, animes, mangá, filmes de herói? Pois
   />
 
 </p>
-
-<br />
-
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=natanaelsaymon&show_icons=true&locale=en" alt="natanaelsaymon" /> &nbsp; &nbsp; &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=natanaelsaymon&show_icons=true&locale=en&layout=compact" alt="natanaelsaymon" /></p>
-
-<br />
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natanaelsaymon&" alt="natanaelsaymon" /></p>
