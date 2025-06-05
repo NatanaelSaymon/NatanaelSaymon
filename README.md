@@ -73,6 +73,7 @@ Sabe aquelas pessoas que gostam de games, animes, mangá, filmes de herói? Pois
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br/>
+<br/>
 
 ### 🤖 Learning
 
@@ -101,6 +102,7 @@ Sabe aquelas pessoas que gostam de games, animes, mangá, filmes de herói? Pois
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
+<br/>
 <br/>
 
 ### 📊 Estatísticas
