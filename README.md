@@ -18,7 +18,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-C69?style=for-the-badge&logo=sass&logoColor=fff)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
+![NPM](https://img.shields.io/badge/npm-FF0000?style=for-the-badge&logo=npm&logoColor=white)
+![YARN](https://img.shields.io/badge/yarn-3e9ff0?style=for-the-badge&logo=yarn&logoColor=white)
+![vtex](https://img.shields.io/badge/vtex-FF0000?style=for-the-badge&logo=vtex&logoColor=white)
 
 <br/>
 <br/>
