@@ -115,18 +115,11 @@
 ### 📊 Github Starts
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=natanaelsaymon&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
     
-![user](https://github-readme-stats.vercel.app/api?username=natanaelsaymon&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
-    
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natanaelsaymon&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelsaymon&layout=compact&theme=radical)
-
+<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=natanaelsaymon&theme=radical)
 
 </p>
