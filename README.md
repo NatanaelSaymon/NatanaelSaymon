@@ -30,7 +30,7 @@
 <br />
 
 
-### 🤖 Skills
+### 🧰 Tecnologias & Ferramentas
 
 <img 
     align="left" 
