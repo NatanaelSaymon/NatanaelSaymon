@@ -1,15 +1,17 @@
-## 👋 Olá, eu sou o Natan!
-
-👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas. <br />
-💻 Desenvolvedor Front-End com foco em e-commerce e experiência prática na plataforma **VTEX (CMS e IO)**. <br />
-🚀 Atuo na criação de landing pages, formulários promocionais, componentes reutilizáveis e melhorias com foco em performance, responsividade e acessibilidade.  <br />
-🤝 Participei de sprints e reuniões com clientes, contribuindo na definição e entrega de soluções alinhadas ao negócio. <br />
-🛠️ Também tenho experiência com VTEX Admin: cadastro de produtos, criação de promoções e verificação de estoque. <br />
+## 👋 Hey there, I'm Natan!
 
 
-<br>
+💻 I'm a Front-End Developer with hands-on experience in **VTEX (CMS and IO)** e-commerce projects.  <br />
+🎓 I hold a degree in **Systems Analysis and Development**.  <br />
+🚀 I work on building landing pages, promotional forms, reusable components, and performance-focused, accessible, responsive interfaces.  <br />
+🤝 I've participated in agile sprints and client meetings, contributing to the planning and delivery of efficient, business-driven solutions.  <br />
+🛠️ I also have experience with VTEX Admin: product registration, promotions setup, and stock verification. <br />
+✨ Always learning and aiming to write clean, functional, and impactful code.
 
-### 🧰 Tecnologias & Ferramentas
+<br />
+<br />
+
+### 🧰 Technologies & Tools
 
 <img 
     align="left" 
@@ -68,6 +70,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <br/>
 <br/>
 
@@ -99,18 +102,17 @@
 />
 
 <br/>
+<br/>
 
-### 📫 Contato
+### 📫 Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-saymon-2b9b18145/)](https://www.linkedin.com/in/natanael-saymon-2b9b18145/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natanaelsaymondev@gmail.com)](mailto:natanaelsaymondev@gmail.com/)
 
 <br />
-
-
 <br/>
 
-### 📊 Estatísticas
+### 📊 Github Starts
 
 <p>
   <img 
