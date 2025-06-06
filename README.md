@@ -117,9 +117,9 @@
 <p>
     
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natanaelsaymon&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
-<br/>
+<br/><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelsaymon&layout=compact&theme=radical)
-<br/>
+<br/><br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=natanaelsaymon&theme=radical)
 
 </p>
