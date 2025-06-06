@@ -9,7 +9,6 @@
 ✨ Always learning and aiming to write clean, functional, and impactful code.
 
 <br />
-<br />
 
 ### 🧰 Technologies & Tools
 
