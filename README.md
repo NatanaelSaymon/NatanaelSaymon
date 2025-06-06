@@ -23,7 +23,6 @@
 ![vtex](https://img.shields.io/badge/vtex-FF0000?style=for-the-badge&logo=vtex&logoColor=white)
 
 <br/>
-<br/>
 
 ### 🤖 Learning
 
@@ -32,7 +31,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 <br/>
-<br/>
 
 ### 📫 Contact
 
@@ -40,7 +38,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natanaelsaymondev@gmail.com)](mailto:natanaelsaymondev@gmail.com/)
 
 <br />
-<br/>
 
 ### 📊 Github Starts
 
