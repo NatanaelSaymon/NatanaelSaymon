@@ -1,10 +1,10 @@
 ## 👋 Olá, eu sou o Natan!
 
-👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas.
-💻 Desenvolvedor Front-End com foco em e-commerce e experiência prática na plataforma **VTEX (CMS e IO)**. 
-🚀 Atuo na criação de landing pages, formulários promocionais, componentes reutilizáveis e melhorias com foco em performance, responsividade e acessibilidade.  
-🤝 Participei de sprints e reuniões com clientes, contribuindo na definição e entrega de soluções alinhadas ao negócio.
-🛠️ Também tenho experiência com VTEX Admin: cadastro de produtos, criação de promoções e verificação de estoque.
+👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas. <br />
+💻 Desenvolvedor Front-End com foco em e-commerce e experiência prática na plataforma **VTEX (CMS e IO)**. <br />
+🚀 Atuo na criação de landing pages, formulários promocionais, componentes reutilizáveis e melhorias com foco em performance, responsividade e acessibilidade.  <br />
+🤝 Participei de sprints e reuniões com clientes, contribuindo na definição e entrega de soluções alinhadas ao negócio. <br />
+🛠️ Também tenho experiência com VTEX Admin: cadastro de produtos, criação de promoções e verificação de estoque. <br />
 
 
 <br>
