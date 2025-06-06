@@ -130,4 +130,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelsaymon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=natanaelsaymon&theme=radical)
+
 </p>
