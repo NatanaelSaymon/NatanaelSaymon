@@ -129,6 +129,7 @@
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelsaymon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelsaymon&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=natanaelsaymon&theme=radical)
 
