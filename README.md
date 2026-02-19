@@ -36,7 +36,7 @@
 
 ### 📫 Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natanaelsaymondev@gmail.com)](mailto:natanaelsaymondev@gmail.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saymoneo@gmail.com)](mailto:saymoneo@gmail.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-saymon-2b9b18145/)](https://www.linkedin.com/in/natanael-saymon-2b9b18145/)
 
 
