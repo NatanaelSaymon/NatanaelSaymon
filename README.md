@@ -19,7 +19,6 @@
 ![SASS](https://img.shields.io/badge/Sass-C69?style=for-the-badge&logo=sass&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Styled components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-FF0000?style=for-the-badge&logo=npm&logoColor=white)
 ![YARN](https://img.shields.io/badge/yarn-3e9ff0?style=for-the-badge&logo=yarn&logoColor=white)
@@ -30,17 +29,9 @@
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 <br/>
 
-### 📫 Contact
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saymoneo@gmail.com)](mailto:saymoneo@gmail.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-saymon-2b9b18145/)](https://www.linkedin.com/in/natanael-saymon-2b9b18145/)
-
-
-<br />
 
 ### 📊 Github Starts
 
