@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm Natan!
 
 
-💻 I'm a Front-End Developer with hands-on experience in **VTEX (CMS and IO)** e-commerce projects.  <br />
+💻 I'm a Front-End Developer with hands-on experience in **VTEX (CMS, IO and FASTSTORE)** e-commerce projects.  <br />
 🎓 I hold a degree in **Systems Analysis and Development**.  <br />
 🚀 I work on building landing pages, promotional forms, reusable components, and performance-focused, accessible, responsive interfaces.  <br />
 🤝 I've participated in agile sprints and client meetings, contributing to the planning and delivery of efficient, business-driven solutions.  <br />
