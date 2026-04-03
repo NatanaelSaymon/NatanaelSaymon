@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-souza-2b9b18145/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saymoneo@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/NatanaelSaymon?style=for-the-badge&color=00d1ff&labelColor=0a0e1a&logo=github)](https://github.com/NatanaelSaymon)
 ![Profile views](https://komarev.com/ghpvc/?username=NatanaelSaymon&style=for-the-badge&color=00d1ff&label=PROFILE+VIEWS)
 
 </div>
