@@ -1,18 +1,20 @@
 ## 👋 Hey there, I'm Natan!
 
-
-💻 I'm a Front-End Developer with hands-on experience in **VTEX (CMS, IO and FASTSTORE)** e-commerce projects.  <br />
+💻 I'm a Front-End Developer specialized in high-performance E-commerce, with deep expertise in **VTEX (FastStore v2, IO, CMS, MasterData)**, **Shopify**, and **Wake**.  <br />
 🎓 I hold a degree in **Systems Analysis and Development**.  <br />
-🚀 I work on building landing pages, promotional forms, reusable components, and performance-focused, accessible, responsive interfaces.  <br />
-🤝 I've participated in agile sprints and client meetings, contributing to the planning and delivery of efficient, business-driven solutions.  <br />
-🛠️ I also have experience with VTEX Admin: product registration, promotions setup, and stock verification. <br />
-✨ Always learning and aiming to write clean, functional, and impactful code.
+🚀 My focus is engineering scalable front-end architectures, strictly adhering to **Clean Code**, **Strong Typing (TypeScript)**, and optimizing metrics for **Lighthouse/Web Vitals**.  <br />
+🛠️ I possess full-cycle experience, from crafting complex **Liquid** logics and overriding official components (`@faststore/core`), to managing business operations within the VTEX Admin (promotions, catalog, and logistics). <br />
+🤝 I actively participate in agile sprints and client meetings, bridging the gap between technical implementation and business-driven solutions.  <br />
+✨ Obsessed with logical problem-solving and delivering fast, accessible, and impactful responsive interfaces.
 
 <br />
 
 ### 🧰 Technologies & Tools
 
-![vtex](https://img.shields.io/badge/vtex-FF0000?style=for-the-badge&logo=vtex&logoColor=white)
+![VTEX](https://img.shields.io/badge/vtex-FF0000?style=for-the-badge&logo=vtex&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -25,15 +27,7 @@
 
 <br/>
 
-### 🤖 Learning
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-<br/>
-
-
-### 📊 Github Starts
+### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natanaelsaymon&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
 <br/><br/>
