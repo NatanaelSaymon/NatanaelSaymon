@@ -26,8 +26,7 @@ Atualmente estou expandindo meu stack para **Next.js 14** e **TypeScript** — t
 - 🏢 Trabalhando com **VTEX IO & FastStore** na [@eVision-Team](https://github.com/eVision-Team)
 - 📍 São Paulo, SP — Brazil
 - 🎓 Bacharelado em **Análise e Desenvolvimento de Sistemas**
-- 🔭 Projeto atual: **PRF-RPG** — um app de estudos gamificado com Next.js + Supabase
-- ⚡ Fun fact: Estudo para concurso público enquanto constro o app que vai me ajudar a passar nele
+- 🔭 Projeto atual: **Study-RPG** — um app de estudos gamificado com Next.js + Supabase
 
 ---
 
@@ -66,30 +65,6 @@ Atualmente estou expandindo meu stack para **Next.js 14** e **TypeScript** — t
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-
----
-
-## 🚀 Projeto em Destaque
-
-<div align="center">
-
-### ⚔️ PRF-RPG — Gamified Study App
-
-[![PRF-RPG](https://img.shields.io/badge/PRF--RPG-em%20desenvolvimento-00d1ff?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0a0e1a)](https://github.com/NatanaelSaymon/prf-rpg)
-
-</div>
-
-App de estudos gamificado temático de **Solo Leveling**, construído para preparação no concurso da **Polícia Rodoviária Federal (PRF/CEBRASPE)**.
-
-**Stack:** `Next.js 14` · `TypeScript` · `Supabase` · `SCSS Modules` · `Vercel`
-
-**Funcionalidades:**
-- 🎖️ Sistema de progressão de ranks **E → S** (Iniciante ao Monarca das Sombras)
-- ⚔️ Missões diárias com penalidades por XP
-- 🧠 Simulador no formato CEBRASPE com pontuação negativa
-- 📚 Repetição espaçada e caderno digital de erros
-- 🪙 Shop com sistema de moedas in-game
-- 👥 Exército de sombras: matérias dominadas viram "aliados"
 
 ---
 
